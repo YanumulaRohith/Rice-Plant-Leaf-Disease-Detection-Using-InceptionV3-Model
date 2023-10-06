@@ -15,6 +15,7 @@ using the power of deep learning and CNNs.
  Tungro, Shathblight, NarrowBrownSpot, LeafScald, LeafBlast, Hispa, Healthy,BrownSpot,
  BacterialLeafblight are Rice Leaf Diseases Recognition Using Convolutional Neural Net
 works
+
 **Effect of epochs**
  The impact of epochs. Under normal parameters, the proposed CNN-based model is trained
  over a range of epoch counts up to 50. There are no more refinements in our model’s
@@ -27,8 +28,9 @@ works
  decreasing. During47th to 48th epochs, validation loss is closer to the training loss and the
  validation accuracy is at its peak. At this point, training accuracy is still increasing. From
  these observations, we stop training our model at the 50th epoch
+ 
 **CONCLUSION**
  In this study, we provide a novel CNN-based model that can categorize five prevalent
  rice leaf diseases that are wide spreading. Our model has been trained to identify rice
- leaf illnesses in various image backdrops and photo-taking circumstances
-## By using the **InceptionV3-Model**,acheived 97.729% accuracy with 50 epochs.
+ leaf illnesses in various image backdrops and photo-taking circumstances.
+ **By using the **InceptionV3-Model**,acheived 97.729% accuracy with 50 epochs.**
