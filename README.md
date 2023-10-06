@@ -9,4 +9,4 @@ diagnosis. This research report focuses on employing the Inception V3 model, a c
 dge architecture famous for its accuracy and efficiency, to detect diseases in rice plants
 using the power of deep learning and CNNs.
 
-## By using the **InceptionV3-Model**,acheived 97.729% acuuracy with 50 epochs.
+## By using the **InceptionV3-Model**,acheived 97.729% accuracy with 50 epochs.
